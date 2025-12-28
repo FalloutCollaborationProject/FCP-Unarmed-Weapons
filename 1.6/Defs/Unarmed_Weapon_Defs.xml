@@ -14,6 +14,7 @@
         <graphicData>
             <texPath>Normal/Boxing_Glove/FCP_Boxing_Glove</texPath>
             <graphicClass>Graphic_Single</graphicClass>
+            <color>(200, 40, 40)</color>
         </graphicData>
         <uiIconScale>1.0</uiIconScale>
         <techLevel>Industrial</techLevel>
@@ -190,6 +191,7 @@
         <graphicData>
             <texPath>Powered/Displacer_Glove/FCP_Displacer_Glove</texPath>
             <graphicClass>Graphic_Single</graphicClass>
+            <color>(105, 155, 255)</color>
         </graphicData>
         <uiIconScale>1.0</uiIconScale>
         <techLevel>Spacer</techLevel>
@@ -250,6 +252,7 @@
         <graphicData>
             <texPath>Powered/Zap_Glove/FCP_Zap_Glove</texPath>
             <graphicClass>Graphic_Single</graphicClass>
+            <color>(135, 200, 255)</color>
         </graphicData>
         <uiIconScale>1.0</uiIconScale>
         <techLevel>Industrial</techLevel>
