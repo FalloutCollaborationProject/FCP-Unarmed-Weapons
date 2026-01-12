@@ -22,7 +22,8 @@
             <Cloth>30</Cloth>
             <Leather_Plain>20</Leather_Plain>
         </costList>
-        <statBases>
+        <statBases>
+            <MarketValue>80</MarketValue>
             <WorkToMake>3500</WorkToMake>
             <Mass>0.5</Mass>
             <MarketValue>50</MarketValue>
@@ -82,7 +83,8 @@
             <Steel>50</Steel>
             <ComponentIndustrial>3</ComponentIndustrial>
         </costList>
-        <statBases>
+        <statBases>
+            <MarketValue>650</MarketValue>
             <WorkToMake>18000</WorkToMake>
             <Mass>4.0</Mass>
             <MarketValue>1500</MarketValue>
@@ -140,7 +142,8 @@
             <Steel>60</Steel>
             <ComponentIndustrial>5</ComponentIndustrial>
         </costList>
-        <statBases>
+        <statBases>
+            <MarketValue>850</MarketValue>
             <WorkToMake>24000</WorkToMake>
             <Mass>5.0</Mass>
             <MarketValue>2000</MarketValue>
@@ -201,7 +204,8 @@
             <ComponentIndustrial>4</ComponentIndustrial>
             <ComponentSpacer>1</ComponentSpacer>
         </costList>
-        <statBases>
+        <statBases>
+            <MarketValue>980</MarketValue>
             <WorkToMake>28000</WorkToMake>
             <Mass>3.0</Mass>
             <MarketValue>2500</MarketValue>
@@ -261,7 +265,8 @@
             <Steel>25</Steel>
             <ComponentIndustrial>2</ComponentIndustrial>
         </costList>
-        <statBases>
+        <statBases>
+            <MarketValue>550</MarketValue>
             <WorkToMake>12000</WorkToMake>
             <Mass>1.5</Mass>
             <MarketValue>800</MarketValue>
@@ -325,7 +330,8 @@
             <Steel>55</Steel>
             <ComponentIndustrial>4</ComponentIndustrial>
         </costList>
-        <statBases>
+        <statBases>
+            <MarketValue>1200</MarketValue>
             <WorkToMake>20000</WorkToMake>
             <Mass>4.5</Mass>
             <MarketValue>1200</MarketValue>
