@@ -17,6 +17,7 @@
             <color>(200, 40, 40)</color>
         </graphicData>
         <uiIconScale>1.0</uiIconScale>
+        <soundInteract>FCP_Sound_Interact_Melee_Generic</soundInteract>
         <costList>
             <Cloth>30</Cloth>
             <Leather_Plain>20</Leather_Plain>
@@ -55,6 +56,7 @@
                 <power>10</power>
                 <cooldownTime>1.2</cooldownTime>
                 <armorPenetration>0.10</armorPenetration>
+                <soundMeleeHit>FCP_Sound_Hit_PowerFist</soundMeleeHit>
             </li>
         </tools>
         <comps>
@@ -77,6 +79,7 @@
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <uiIconScale>1.0</uiIconScale>
+        <soundInteract>FCP_Sound_Interact_Melee_Generic</soundInteract>
         <costList>
             <Steel>50</Steel>
             <ComponentIndustrial>3</ComponentIndustrial>
@@ -115,6 +118,7 @@
                 <power>28</power>
                 <cooldownTime>1.8</cooldownTime>
                 <armorPenetration>0.40</armorPenetration>
+                <soundMeleeHit>FCP_Sound_Hit_PowerFist</soundMeleeHit>
             </li>
         </tools>
         <comps>
@@ -135,6 +139,7 @@
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <uiIconScale>1.0</uiIconScale>
+        <soundInteract>FCP_Sound_Interact_Melee_Generic</soundInteract>
         <costList>
             <Steel>60</Steel>
             <ComponentIndustrial>5</ComponentIndustrial>
@@ -173,6 +178,7 @@
                 <power>35</power>
                 <cooldownTime>2.0</cooldownTime>
                 <armorPenetration>0.50</armorPenetration>
+                <soundMeleeHit>FCP_Sound_Hit_PowerFist</soundMeleeHit>
             </li>
         </tools>
         <comps>
@@ -256,6 +262,7 @@
             <color>(135, 200, 255)</color>
         </graphicData>
         <uiIconScale>1.0</uiIconScale>
+        <soundInteract>FCP_Sound_Interact_Melee_Generic</soundInteract>
         <costList>
             <Leather_Plain>15</Leather_Plain>
             <Steel>25</Steel>
@@ -295,6 +302,7 @@
                 <power>18</power>
                 <cooldownTime>1.4</cooldownTime>
                 <armorPenetration>0.25</armorPenetration>
+                <soundMeleeHit>FCP_Sound_Hit_ZapGlove</soundMeleeHit>
                 <extraMeleeDamages>
                     <li>
                         <def>EMP</def>
