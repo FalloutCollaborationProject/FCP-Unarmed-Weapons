@@ -329,7 +329,6 @@
             <ComponentIndustrial>4</ComponentIndustrial>
         </costList>
         <statBases>
-            <MarketValue>1200</MarketValue>
             <WorkToMake>20000</WorkToMake>
             <Mass>4.5</Mass>
             <MarketValue>1200</MarketValue>
